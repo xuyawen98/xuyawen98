@@ -1,7 +1,7 @@
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
 <p align="center">
   <h1 height="200px" align="center">
- God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Yawen XU </h1> <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 frontend developer from China 👨‍💻</p> </p> 
+ God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Yawen XU </h1> <p align="center">An Always passion ✨ and sometimes idle 👗 a master's student, expected to graduate in June 2026 👨‍💻</p> </p> 
 
 
 
@@ -37,24 +37,57 @@
 <br />
 <br />
 <! img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
 <!-- 关于我 -->
-<h2 height="200px" align="center">🧐 Research Focus </h2>
-<br />
+<h2 height="200px" align="center"> </h2>
 
-- 🔭 Biomarker discovery in Psychiatry
-- 🤖️ Neural and cognitive dynamics in Human-AI Interaciton
-- 🔭 I’m currently working on [DXY](https://dxy.com/), and have an interest in interdisciplinary research ~
-<br />
-<!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
-<br />
 
-- 👨‍💻 I'm proficient in many programming languages, and have been developing my statistical and computational skills ~
-- 💃 I'm passionate about K-pop dancing, and it pays off ~
-- 👻 I love to share, and currently share technical articles at [juejin](https://juejin.cn/user/4459274891717223)
-- ⛺️ I have a private site: [kunlunxu](https://kunlunxu.cc), you're welcome to come! ~
-- 📨 My email address is `M202375413@hust.edu.cn` Welcome to contact me 👏🏻 ~
+<h3> 👧•💻 About Me </h3>
+
+
+
+- 🎓 &nbsp; Seeking opportunities for a Reseach Assistanship or PhD position in the USA ~ 💓
+
+- 👨‍💻 &nbsp; Purchasing a Master's degree in Psychology at [HUST](https://www.hust.edu.cn/), and have an interest in interdisciplinary research ~
+
+- 👻 &nbsp; Developing my statistical and computational skills ~
+
+- 💃 &nbsp; Passionating about K-pop dancing, and it pays off ~
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 🧠 &nbsp; fNIRS | PPG | EDA | EEG | Hyperscanning 
+
+- 💻 &nbsp; Python | MATLAB | R | Mplus | PsychoPy | E-prime
+
+- 🌐 &nbsp; HTML | CSS | Git | Markdown | Photoshop
+
+- 🛢 &nbsp; Machine learning | Meta analysis | Text analysis | Network psychometric analyses
+
+<!--
+
+- 🛢 &nbsp; Machine learning | Meta analysis | Text analysis
+
+- 🔧 &nbsp; Meta analysis | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 Research Focus </h3>
+
+- 🔧 &nbsp; Psychiatry | Human-AI Interaciton🤖️ | Neural and cognitive dynamics
+
+- 📨 &nbsp; My email address is `M202375413@hust.edu.cn` Welcome to contact me 👏🏻 ~
+
+<hr>
+
+
+
+<br/><br/>
 
 
 
