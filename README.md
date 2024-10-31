@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-
+</div>
 
 <!-- 背景图 -->
 <br />
