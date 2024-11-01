@@ -28,11 +28,10 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=xuyawen98" alt="xuyawen98" />
-<div>
+</div>
 </div>
 
 <!-- 背景图 -->
-<br />
 <br />
 <! img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
 <!-- 关于我 -->
